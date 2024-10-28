@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\C# project\Assignment_day2\Assignment_day2\bin\Debug\net8.0\Assignment_day2.exe
+C:\Users\Administrator\Documents\C# project\Assignment_day2\Assignment_day2\bin\Debug\net8.0\Assignment_day2.deps.json
+C:\Users\Administrator\Documents\C# project\Assignment_day2\Assignment_day2\bin\Debug\net8.0\Assignment_day2.runtimeconfig.json
+C:\Users\Administrator\Documents\C# project\Assignment_day2\Assignment_day2\bin\Debug\net8.0\Assignment_day2.dll
+C:\Users\Administrator\Documents\C# project\Assignment_day2\Assignment_day2\bin\Debug\net8.0\Assignment_day2.pdb
+C:\Users\Administrator\Documents\C# project\Assignment_day2\Assignment_day2\obj\Debug\net8.0\Assignment_day2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\C# project\Assignment_day2\Assignment_day2\obj\Debug\net8.0\Assignment_day2.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\C# project\Assignment_day2\Assignment_day2\obj\Debug\net8.0\Assignment_day2.AssemblyInfo.cs
+C:\Users\Administrator\Documents\C# project\Assignment_day2\Assignment_day2\obj\Debug\net8.0\Assignment_day2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\C# project\Assignment_day2\Assignment_day2\obj\Debug\net8.0\Assignment_day2.dll
+C:\Users\Administrator\Documents\C# project\Assignment_day2\Assignment_day2\obj\Debug\net8.0\refint\Assignment_day2.dll
+C:\Users\Administrator\Documents\C# project\Assignment_day2\Assignment_day2\obj\Debug\net8.0\Assignment_day2.pdb
+C:\Users\Administrator\Documents\C# project\Assignment_day2\Assignment_day2\obj\Debug\net8.0\Assignment_day2.genruntimeconfig.cache
+C:\Users\Administrator\Documents\C# project\Assignment_day2\Assignment_day2\obj\Debug\net8.0\ref\Assignment_day2.dll
