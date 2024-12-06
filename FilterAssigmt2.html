@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html >
+<head>
+    <title>Passed Students</title>
+</head>
+<body>
+    <h3>Students Passed with Percentage Greater than 80</h3>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Percentage</th>
+            </tr>
+        </thead>
+        <tbody id="studentTable"></tbody>
+    </table>
+
+    <script>
+        const students = [
+            { id: 1, name: "Ram", result: "Pass", percentage: 85 },
+            { id: 2, name: "Srishti", result: "Fail", percentage: 45 },
+            { id: 3, name: "Tarun", result: "Pass", percentage: 92 },
+            { id: 4, name: "Aryan", result: "Pass", percentage: 78 },
+            { id: 5, name: "Sneha", result: "Pass", percentage: 88 },
+            { id: 6, name: "Sonal", result: "Fail", percentage: 50 }
+        ];
+
+        const passedStudents = students.filter(student => student.result === "Pass" && student.percentage > 80);
+        const tableBody = document.getElementById('studentTable');
+
+        passedStudents.forEach(student => {
+            const row = document.createElement('tr');
+            row.innerHTML = `
+                <td>${student.id}</td>
+                <td>${student.name}</td>
+                <td>${student.percentage}</td>
+            `;
+            tableBody.appendChild(row);
+        });
+    </script>
+</body>
+</html>
